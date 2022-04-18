@@ -24,37 +24,37 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ### 1 - Página inicial.
 
-![Homepage image](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/home.png)
+![Homepage image](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/home.png)
 
 ### 2 - Entrando com a conta do github.
 
-![SignInGitHub](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/SignInGitHub.png)
+![SignInGitHub](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/SignInGitHub.png)
 
 ### 3 - Página de Posts.
 
-![PagePosts](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/PagePosts.png)
+![PagePosts](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/PagePosts.png)
 
 ### 4 - Post de notícia (notícia meramente ilustrativa)
 
-![PagePosts1](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/Post1.png)
-![PagePosts1](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/Post1.1.png)
+![PagePosts1](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/Post1.png)
+![PagePosts1](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/Post1.1.png)
 
 ### 5 - Stripe
  O ignews por sua vez tem o Stripe como um sistema de compra integrado, como mostra a configuração abaixo.
 
-![PageStripe](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/Stripe.png)
+![PageStripe](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/Stripe.png)
 
 - Abaixo a ilustração da assinatura na plataforma da stripe
 
-![PageStripeAssinatura](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/AssinaturaBlog.png)
+![PageStripeAssinatura](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/AssinaturaBlog.png)
 
 ### 6 - FaunaDB
  Utilizaremos o FaunaDB que é o banco de dados para aplicativos modernos que possibilita rich clients com back-ends sem servidor.
  Onde mostraremos as collections de usuarios e assinantes.
 
-![PageStripeUsers](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/DbUsers.png)
+![PageFaunaUsers](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/DbUsers.png)
 
-![PageStripeSubscription](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/imagesREADME/DbSubscribe.png)
+![PageFaunaSubscription](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/DbSubscribe.png)
 
 ### 7 - Prismic
 
@@ -62,7 +62,7 @@ Utilizamos o prismic CMS para fazer as postagens das notícias e gerenciar o con
 
 ## Link
 
-  - Repository: https://github.com/Askizin/Ig.news-rockeatseat
+  - Repository: https://github.com/Askizin/Ignews
     - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
       iury_barbosa07@hotmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
