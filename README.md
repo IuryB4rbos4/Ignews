@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Askizin/Ig.news-rockeatseat/blob/main/public/images/logo.svg)
+![Logo of the project](https://github.com/Askizin/Ignews/blob/master/public/images/logo.svg)
 
 
 ## 📝 Aplicação de um Blog 📝
