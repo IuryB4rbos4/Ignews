@@ -2,8 +2,8 @@
 
 
 ## 📝 Aplicação de um Blog 📝
-O ig.news é um blog de notícias onde os usuários podem ter acesso as notícias de acordo com o status de assinatura.<br />
-Caso o mesmo não venha a obter a assinatura, as notícias seram limitada. <br />
+O ig.news é um blog de notícias onde os usuários podem ter acesso as notícias de acordo com o status de assinatura,<br />
+caso o mesmo não venha obter a assinatura, as notícias serão limitada. <br />
 
 ## Technology ⚙️
 
@@ -49,8 +49,8 @@ Aqui estão as tecnologias usadas neste projeto.
 ![PageStripeAssinatura](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/AssinaturaBlog.png)
 
 ### 6 - FaunaDB
- Utilizaremos o FaunaDB que é o banco de dados para aplicativos modernos que possibilita rich clients com back-ends sem servidor.
- Onde mostraremos as collections de usuarios e assinantes.
+ Utilizaremos o FaunaDB que é o banco de dados para aplicativos modernos que possibilita rich clients com back-ends sem servidor,
+ onde mostraremos as collections de usuários e assinantes.
 
 ![PageFaunaUsers](https://github.com/Askizin/Ignews/blob/master/public/imagesREADME/DbUsers.png)
 
@@ -63,7 +63,7 @@ Utilizamos o prismic CMS para fazer as postagens das notícias e gerenciar o con
 ## Link
 
   - Repository: https://github.com/Askizin/Ignews
-    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato com o email
       iury_barbosa07@hotmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
 
